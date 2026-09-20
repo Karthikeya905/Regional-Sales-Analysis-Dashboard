@@ -5,7 +5,7 @@
 An interactive **Power BI dashboard** developed to analyze regional sales performance and identify key business trends and insights.
 
 ##Dataset used:
--<a href="https://github.com/Karthikeya905/Regional-Sales-Analysis-Dashboard/blob/main/Regional%20Sales%20Dataset.xlsx">reginal sales data</a>
+-<a href="https://github.com/Karthikeya905/Regional-Sales-Analysis-Dashboard/blob/main/Regional%20Sales%20Dataset.xlsx">Dataset</a>
 ## Tools Used
 
 * Power BI
@@ -35,6 +35,9 @@ An interactive **Power BI dashboard** developed to analyze regional sales perfor
 * Analyzed the data and identified key trends.
 * Created the Power BI dashboard and visualizations.
 * Developed KPIs and business insights.
+
+##Dashboard:
+-<a href = "https://github.com/Karthikeya905/Regional-Sales-Analysis-Dashboard/blob/main/SALES%20REPORT.pbix">View Dashboard</a>
 
 ## Conclusion
 
